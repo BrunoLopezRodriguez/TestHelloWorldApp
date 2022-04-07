@@ -19,6 +19,7 @@ public class ProductServlet extends HttpServlet {
      */
     public ProductServlet() {
         super();
+        System.out.println();
         // TODO Auto-generated constructor stub
     }
 
